@@ -1,3 +1,5 @@
+package com.example.song.controller;
+
 import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import java.util.*;
